@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Landingv1 from './pages/Landingv1';
-
+import './index.css';
 function App() {
   return (
     <BrowserRouter>
